@@ -9,8 +9,8 @@
 *  https://navigatingthedigitalworld.com/docs/password-management
 *  https://navigatingthedigitalworld.com/docs/project-management
 *  https://navigatingthedigitalworld.com/docs/content-production
-3. literature review : to refine my research questions i will create a list my keywords 
-4. i use these keywords to refine literature
+3. to refine my research questions i will create a list my keywords 
+4. i use these keywords to review the literature
    
 ## Log
 - 2023-11-03 I set up a github account and a repository. I drafted my first task list. 
