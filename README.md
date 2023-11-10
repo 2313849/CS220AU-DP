@@ -3,7 +3,8 @@
 
 ## Tasks
 1.  check assignment brief : https://navigatingthedigitalworld.com/docs/cs220/cs220au
-2.  read these pages from the website
+2.  make presentation friday (10-11-2032)
+3.  read these pages from the website
 *  https://navigatingthedigitalworld.com/docs/digital-identities
 *  explore existential risks: https://navigatingthedigitalworld.com/docs/existential-risks
 *  https://navigatingthedigitalworld.com/docs/password-management
