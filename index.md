@@ -4,7 +4,7 @@
 keywords: existential risks, digital ideneties, pendamic, covid-19
 
 ## Introductin
-[This]() is an internal link to another page on your site. 
+[This](assessement.md) is an internal link to another page on your site. 
 
 And [this] (https://navigatingthedigitalworld.com/) is an external link to web page on another website. 
 
