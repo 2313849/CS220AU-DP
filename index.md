@@ -11,11 +11,12 @@ And [this] (https://navigatingthedigitalworld.com/) is an external link to web p
 ## Body
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
-![Plain VR map](assets/img/vr-map-plain.svg)
+![pendamic covid 19](https://github.com/2313849/CS220AU-DP/assets/149807678/5e0f096d-13bf-4482-a197-0a799bfc3711)
 
 Below you see an example of embedding an image that is found in another repository:
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
+![covid (1)](https://github.com/2313849/CS220AU-DP/assets/149807678/51d28b09-a163-4adc-940f-c21a589eaf86)
+
 
 here is a simple footnote
 
