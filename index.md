@@ -1,9 +1,9 @@
-# 
+# How does COVID-19 impact the world and people's lives
 17 nov 2023
 
 keywords: existential risks, digital ideneties, pendamic, covid-19
 
-## Introductin
+## Introduction
 [This](assessement.md) is an internal link to another page on your site. 
 
 And [this] (https://navigatingthedigitalworld.com/) is an external link to web page on another website. 
