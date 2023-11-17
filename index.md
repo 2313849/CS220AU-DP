@@ -1,5 +1,7 @@
 # How covid 19 impact world and people life
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+17 nov 2023
+
+keywords: existential risks and digital ideneties
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
