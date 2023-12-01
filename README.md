@@ -14,4 +14,9 @@
 4. i use these keywords to review the literature
    
 ## Log
-- 2023-11-03 I set up a github account and a repository. I drafted my first task list. 
+- 2023-11-03 I set up a github account and a repository. I drafted my first task list.
+- 2023-11-07 thought about presentation
+- 2023-11-10 listen to other students prentation
+- 2023-11-17 build up gitbus index  on covid and embedded photos
+- 2023-11-24 reading week no class
+
