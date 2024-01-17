@@ -1,5 +1,5 @@
 Coursework title: CS220AU Digital Portfolio  
-Student Registration Number: <!-- add your student registration number -->  2313849 
+Student Registration Number: 2313849 
 GitHub repository URL:https://github.com/2313849/CS220AU-DP/blob/main/index.md <!-- add the URL of your repository, not the URL of your website -->  
 
 ## Checklist
