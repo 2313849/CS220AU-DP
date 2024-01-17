@@ -1,10 +1,7 @@
 # Navigating the Global Landscape: COVID-19 and the Unemployment Challenge in Brazil, Canada, Italy, USA, UK, Germany, and Japan.
 14 January 2023
 keywords: existential risks, digital ideneties, pendamic, covid-19 etc.
-
-
-![](https://github.com/2313849/CS220AU-DP/blob/main/assets/img/_114324300_optimised-covid_effect-nc.png)
-
+![](https://github.com/2313849/CS220AU-DP/blob/main/assets/img/whs_socials_healthy_life.tmb-1366v.png)
 ## Introduction
 The COVID-19 pandemic has not only tested the resilience of healthcare systems worldwide but has also unleashed a profound economic upheaval, leaving nations grappling with the unprecedented challenges of rising unemployment. Among the countries profoundly impacted by this global crisis are Brazil, Canada, Italy, the United States, the United Kingdom, Germany, and Japan. As the world collectively confronts the dual struggle against the health crisis and its economic repercussions, these nations have found themselves at the forefront of a complex battle to mitigate the escalating unemployment rates and foster economic recovery.
 
@@ -15,7 +12,8 @@ Italy, a country deeply affected during the initial stages of the pandemic, has 
 The United Kingdom, Germany, and Japan, known for their robust economies, have not been immune to the economic shocks induced by the pandemic. Each has grappled with unique socio-economic dynamics, emphasizing the need for adaptive policies to address the specific challenges posed by rising unemployment.
 
 This introduction sets the stage for a closer examination of how these nations have responded to the economic fallout of the pandemic, exploring the diverse strategies employed to safeguard employment, stimulate recovery, and foster resilience in the face of an uncertain future. By delving into the experiences of Brazil, Canada, Italy, the USA, the UK, Germany, and Japan, this exploration seeks to shed light on the global efforts to mitigate the profound impacts of COVID-19 on the workforce and lay the groundwork for a more sustainable and inclusive post-pandemic world.
-And [this] (https://navigatingthedigitalworld.com/) is an external link to web page on another website. 
+
+![](https://github.com/2313849/CS220AU-DP/blob/main/assets/img/_114324300_optimised-covid_effect-nc.png)
 
 ## COVID-19 STRUGGLE IN BRAZIL,UK,ITALY,USA,CANADA,GERMANY AND JAPAN
 As of my last knowledge update in January 2022, I don't have real-time data or statistics on the COVID-19 situation or unemployment rates for specific countries. It's crucial to refer to the latest reports and databases for the most up-to-date information. However, I can provide a general overview based on the trends observed up to that point.
@@ -42,7 +40,9 @@ As of my last knowledge update in January 2022, I don't have real-time data or s
 - Japan dealt with economic impacts, including disruptions in industries like tourism and manufacturing. The government implemented stimulus measures to support businesses and workers. The unemployment rate experienced fluctuations during different phases of the pandemic.
 
 Please note that these descriptions are based on the situation up to January 2022, and the current status may have evolved. For the latest and most accurate information, consult official reports from relevant government agencies, international organizations, or reputable news sources.
+
 ![pendamic covid 19](https://github.com/2313849/CS220AU-DP/assets/149807678/5e0f096d-13bf-4482-a197-0a799bfc3711)
+
 ![covid (1)](https://github.com/2313849/CS220AU-DP/assets/149807678/51d28b09-a163-4adc-940f-c21a589eaf86)
 
 ## Digital identities in COVID-19
