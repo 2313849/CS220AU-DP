@@ -1,6 +1,8 @@
 # How does COVID-19 impact the world and people's lives
 14 January 2023
-keywords: existential risks, digital ideneties, pendamic, covid-19 etc
+keywords: existential risks, digital ideneties, pendamic, covid-19 etc.
+
+![](https://github.com/2313849/CS220AU-DP/blob/main/assets/img/_114324300_optimised-covid_effect-nc.png)
 
 ## Introduction
 The COVID-19 pandemic has not only tested the resilience of healthcare systems worldwide but has also unleashed a profound economic upheaval, leaving nations grappling with the unprecedented challenges of rising unemployment. Among the countries profoundly impacted by this global crisis are Brazil, Canada, Italy, the United States, the United Kingdom, Germany, and Japan. As the world collectively confronts the dual struggle against the health crisis and its economic repercussions, these nations have found themselves at the forefront of a complex battle to mitigate the escalating unemployment rates and foster economic recovery.
