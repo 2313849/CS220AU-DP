@@ -2,7 +2,6 @@
 ## Overview
 
 ## Tasks
-1.  check assignment brief : https://navigatingthedigitalworld.com/docs/cs220/cs220au
 *I have made a webpage and the topic is- Navigating the Global Landscape: COVID-19 and the Unemployment Challenge in Brazil, Canada, Italy, USA, UK, Germany, and Japan.
 *Created the list of keywords.
 *Then i used the keywords.
