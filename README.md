@@ -3,24 +3,18 @@
 
 ## Tasks
 1.  check assignment brief : https://navigatingthedigitalworld.com/docs/cs220/cs220au
-2.  make presentation friday (10-11-2032)
-3.  read these pages from the website
-*  https://navigatingthedigitalworld.com/docs/digital-identities
-*  explore existential risks: https://navigatingthedigitalworld.com/docs/existential-risks
-*  https://navigatingthedigitalworld.com/docs/password-management
-*  https://navigatingthedigitalworld.com/docs/project-management
-*  https://navigatingthedigitalworld.com/docs/content-production
-3. to refine my research questions i will create a list my keywords 
-4. i use these keywords to review the literature
-5. find peer for peer assessment on digital portfolio which is on 18th jan 2024
-6. start working on digital portfolio assessment
-   
+*I have made a webpage and the topic is- Navigating the Global Landscape: COVID-19 and the Unemployment Challenge in Brazil, Canada, Italy, USA, UK, Germany, and Japan.
+*Created the list of keywords.
+*Then i used the keywords.
+*Then we explored the findings of the keywords ie. introduction, body paragraph and finally the conclusion.
+*Then we finalised the webpage.
+*Then we downloaded the checklist and finally submitted it. 
 ## Log
-- 2023-11-03 I set up a github account and a repository. I drafted my first task list.
-- 2023-11-07 thought about presentation
-- 2023-11-10 listen to other students prentation 
-- 2023-11-17 we created main topic and its structure
-- 2023-11-17 build up gitbus index  on covid impact on world and attached photos to it
-- 2023-11-24 reading week no class
-- 2023-12-1 lab and looked into github logs
-
+- 2023-12-28 thought about presentation and start proper work on it.
+- 2023-12-15 listen to other students prentation.
+- 2023-12-15 we created main topic and its structure.
+- 2023-12-08 build up gitbus index  on covid impact on world and attached photos to it.
+- 2023-12-01 reading week no class.
+- 2023-11-24 Then i logged in the id and started leaning on github and made the account.
+- 2023-11-17 Attended my first class.
+  
