@@ -1,5 +1,5 @@
 # Navigating the Global Landscape: COVID-19 and the Unemployment Challenge in Brazil, Canada, Italy, USA, UK, Germany, and Japan.
-14 January 2023
+17 November 2023
 keywords: existential risks, digital ideneties, pendamic, covid-19 etc.
 
 ![](assets/img/whs_socials_healthy_life.tmb-1366v.png)
