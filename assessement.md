@@ -38,12 +38,13 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |     |  o  |
 | 1.2       |     |     |     |  o  |     |
 | 2.1       |     |     |  o  |     |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |     |  o  |
 
+The global impact of COVID-19 has been both profound and transformative, reshaping the fabric of daily life in unprecedented ways. As we navigate the aftermath, it is clear that the pandemic has left an indelible mark on societies, economies, and individual lives. The resilience demonstrated by individuals and communities in the face of adversity has been remarkable, as people adapted to new norms, embraced innovation, and supported one another. The pandemic has highlighted the importance of public health infrastructure, global cooperation, and the need for equitable access to resources. The acceleration of digital transformation, remote work, and online learning reflects a seismic shift in how we approach work and education. The fragility of healthcare systems was exposed, prompting a collective reevaluation of public health priorities. As vaccination efforts offer a glimmer of hope, the ongoing challenges underscore the need for continued vigilance and adaptability. COVID-19 prompted a global reflection on values, resilience, and the interconnectedness of our world.
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
