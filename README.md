@@ -9,10 +9,11 @@
 *Then we finalised the webpage.
 *Then we downloaded the checklist and finally submitted it. 
 ## Log
+- 2024-01-18 submitted my digital portfolio on faser.
 - 2023-12-28 thought about presentation and start proper work on it.
 - 2023-12-15 listen to other students prentation.
 - 2023-12-15 we created main topic and its structure.
-- 2023-12-08 build up gitbus index  on covid impact on world and attached photos to it.
+- 2023-12-08 build up github index on covid impact on world and attached photos to it.
 - 2023-12-01 reading week no class.
 - 2023-11-24 started learning on github and made the account.
 - 2023-11-17 understand about what is self and peer group assessment.
