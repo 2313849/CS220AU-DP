@@ -14,6 +14,8 @@
 - 2023-12-15 we created main topic and its structure.
 - 2023-12-08 build up gitbus index  on covid impact on world and attached photos to it.
 - 2023-12-01 reading week no class.
-- 2023-11-24 Then i logged in the id and started leaning on github and made the account.
-- 2023-11-17 Attended my first class.
+- 2023-11-24 started learning on github and made the account.
+- 2023-11-17 understand about what is self and peer group assessment.
+- 2023-11-10 learn that what is project management.
+- 2023-11-10 attended first 1st class of module cs220.
   
